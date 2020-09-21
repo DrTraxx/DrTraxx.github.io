@@ -2,37 +2,37 @@
   {
     "case": "Ermahnung PGSL/VGSL",
     "subject": "Ermahnung - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
-    "message": "Hallo %USER%,\n\n wegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Ermahnung erteilen.\n Bitte lies Dir die Verbandsregeln dazu nochmals durch.\n \n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Ermahnung erteilen.\nBitte lies Dir die Verbandsregeln dazu nochmals durch.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Verwarnung PGSL/VGSL",
     "subject": "Verwarnung - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
-    "message": "Hallo %USER%,\n\n wegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Verwarnung erteilen.\n Bitte lies Dir die Verbandsregeln dazu nochmals durch.\n Bei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Verwarnung erteilen.\nBitte lies Dir die Verbandsregeln dazu nochmals durch.\n Bei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ausschluss PGSL/VGSL",
     "subject": "Ausschluss - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
-    "message": "Hallo %USER%,\n\n wegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich dir den Verbandverweis erteilen.\n Du wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich dir den Verbandverweis erteilen.\nDu wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ermahnung Chatsperre",
     "subject": "Ermahnung und Chatsperre - Fehlverhalten im Chat",
-    "message": "Hallo %USER%,\n\n wegen Fehlverhaltens im Chat und dem daraus resultierenden Regelbruch, muss ich dir eine Chatsperre verpassen. Ebenso zählt diese Chatsperre als Ermahnung.\n Bitte lies dir die Regeln dazu noch einmal durch.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Fehlverhaltens im Chat und dem daraus resultierenden Regelbruch, muss ich dir eine Chatsperre verpassen. Ebenso zählt diese Chatsperre als Ermahnung.\nBitte lies dir die Regeln dazu noch einmal durch.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Verwarnung Chatsperre",
     "subject": "Verwarnung und Chatsperre - Fehlverhalten im Chat",
-    "message": "Hallo %USER%,\n\n wegen Fehlverhaltens im Chat und dem daraus resultierenden Regelbruch, muss ich dir eine Chatsperre verpassen. Ebenso zählt diese Chatsperre als Verwarnung.\n Bitte lies dir die Regeln dazu noch einmal durch.\n Bei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Fehlverhaltens im Chat und dem daraus resultierenden Regelbruch, muss ich dir eine Chatsperre verpassen. Ebenso zählt diese Chatsperre als Verwarnung.\nBitte lies dir die Regeln dazu noch einmal durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ermahnung Regel 15.2",
     "subject": "Ermahnung - Verstoß gegen Regel 15.2; %MISSION_NAME%",
-    "message": "Hallo %USER%,\n\n wegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Ermahnung erteilen.\n Bitte lies dir die Verbandsregeln dazu nochmals durch.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Ermahnung erteilen.\nBitte lies dir die Verbandsregeln dazu nochmals durch.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Verwarnung Regel 15.2",
     "subject": "Ermahnung - Verstoß gegen Regel 15.2; %MISSION_NAME%",
-    "message": "Hallo %USER%,\n\n wegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Verwarnung erteilen.\n Bitte lies dir die Verbandsregeln dazu nochmals durch.\n Bei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Verwarnung erteilen.\n Bitte lies dir die Verbandsregeln dazu nochmals durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ausschluss (sofort)",
