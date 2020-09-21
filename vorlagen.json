@@ -42,6 +42,6 @@
   {
     "case": "Ausschluss (2. Verwarnung)",
     "subject": "Verbandausschluss",
-    "message": "Hallo %USER%,\n\n da du nach der Verwarnung noch einen weiteren Regelverstoß begangen hast, muss ich dir den Verbandverweis erteilen.\n Du wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nda du nach der Verwarnung noch einen weiteren Regelverstoß begangen hast, muss ich dir den Verbandverweis erteilen.\nDu wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n%NAME%\n%ROLE%"
   }
 ]
