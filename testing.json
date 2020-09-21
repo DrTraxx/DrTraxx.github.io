@@ -1,0 +1,7 @@
+[
+  {
+    "case": "Ermahnung PGSL/VGSL",
+    "subject": "Ermahnung - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
+    "message": "Hallo %USER%,\n\n wegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Ermahnung erteilen.\n Bitte lies Dir die Verbandsregeln dazu nochmals durch.\n \n %NAME% \n %ROLE%"
+  }
+]
