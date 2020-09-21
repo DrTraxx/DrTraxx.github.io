@@ -32,12 +32,12 @@
   {
     "case": "Verwarnung Regel 15.2",
     "subject": "Ermahnung - Verstoß gegen Regel 15.2; %MISSION_NAME%",
-    "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Verwarnung erteilen.\n Bitte lies dir die Verbandsregeln dazu nochmals durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
+    "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Verwarnung erteilen.\nBitte lies dir die Verbandsregeln dazu nochmals durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ausschluss (sofort)",
     "subject": "Verbandausschluss - grobes Fehlverhalten",
-    "message": "Hallo %USER%,\n\n wegen groben Fehlverhaltens, das nicht mit unseren Verbandregeln vereinbar ist, muss ich dir den Verbandverweis erteilen.\n Du wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n %NAME% \n %ROLE%"
+    "message": "Hallo %USER%,\n\nwegen groben Fehlverhaltens, das nicht mit unseren Verbandregeln vereinbar ist, muss ich dir den Verbandverweis erteilen.\nDu wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ausschluss (2. Verwarnung)",
