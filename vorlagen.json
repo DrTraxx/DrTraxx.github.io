@@ -43,5 +43,15 @@
     "case": "Ausschluss (2. Verwarnung)",
     "subject": "Verbandausschluss",
     "message": "Hallo %USER%,\n\nda du nach der Verwarnung noch einen weiteren Regelverstoß begangen hast, muss ich dir den Verbandverweis erteilen.\nDu wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n%NAME%\n%ROLE%"
+  },
+  {
+    "case": "Ermahnung Kleineinsätze",
+    "subject": "Ermahnung - permanente Freigabe von Kleineinsätzen",
+    "message": "Hallo %USER%,\n\nweil du den Anweisungen der Administration nicht nachgekommen bist, Kleineinsätze nicht freizugeben, muss ich dir leider eine Ermahnung erteilen.\nBitte lies dir die Verbandregeln dazu noch einmal durch.\n\n%NAME%\n%ROLE%"
+  },
+  {
+    "case": "Verwarnung Kleineinsätze",
+    "subject": "Verwarnung - permanente Freigabe von Kleineinsätzen",
+    "message": "Hallo %USER%,\n\nweil du den Anweisungen der Administration nicht nachgekommen bist, Kleineinsätze nicht freizugeben, muss ich dir leider eine Verwarnung erteilen.\nBitte lies dir die Verbandregeln dazu noch einmal durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   }
 ]
