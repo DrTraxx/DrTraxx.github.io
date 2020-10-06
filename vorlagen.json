@@ -5,6 +5,11 @@
     "message": "Hallo %USER%,\n\nherzlich Willkommen im Verband Bundesweiter KatSchutz (BUND).\nBitte lies Dir unsere Verbandsregeln durch und beachte diese.\nhttps://www.leitstellenspiel.de/verband/regeln/19\n\nIn unserm Verbandsforum haben wir einen Anfängerleitfaden, der Dir den Start in dieses Spiel einfacher machen soll, sowie eine Zusammenstellung aller Wachen, deren Fahrzeuge und ihren Besonderheiten:\nhttps://www.leitstellenspiel.de/alliance_threads/5971\nhttps://www.leitstellenspiel.de/alliance_threads/53016\n\nWenn Du Fragen hast, kannst Du sie gern im Chat stellen.\n\nAuf eine Gute Zusammenarbeit und viel Spaß!\nDie Verbandsleitung des Verbandes Bundesweiter KatSchutz (Bund)"
   },
   {
+    "case": "Ablehnung Bewerbung",
+    "subject": "Deine Bewerbung beim Verband Bundesweiter KatSchutz (BUND)",
+    "message": "Hallo %USER%,\n\nDu hast Dich beim Verband Bundesweiter KatSchutz (Bund) beworben. Deine Bewerbung müssen wir leider ablehnen. Dies kann folgende Gründe haben:\n- Du hast noch keine 250.000 Credits erspielt\n- Du bist nicht registriert und hast deshalb nur eine Client-ID als Name\n- Einer oder Mehrere Deiner Wachennamen entsprechen nicht unserer Vorstellung\n- Dein Profiltext oder -bild entsprechen nicht unseren Vorstellungen\n\nWenn Du Dich in einem der Punkte wiederfindest, dann ändere ihn und bewirb Dich erneut. Falls Deiner Meinung nach keiner der Punkte auf Dich zutrifft, schicke mir eine PN.\n\nDie Verbandsleitung des Verbandes Bundesweiter KatSchutz (Bund)"
+  },
+  {
     "case": "Ermahnung PGSL/VGSL",
     "subject": "Ermahnung - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
     "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Ermahnung erteilen.\nBitte lies Dir die Verbandsregeln dazu nochmals durch.\n\n%NAME%\n%ROLE%"
