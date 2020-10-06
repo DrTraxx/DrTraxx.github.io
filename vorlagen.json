@@ -2,7 +2,7 @@
   {
     "case": "Begrüßungsnachricht",
     "subject": "Herzlich Willkommen im Verband Bundesweiter KatSchutz (BUND)",
-    "message": "Hallo %USER%,\n\nherzlich Willkommen im Verband Bundesweiter KatSchutz (BUND).\nBitte lies Dir unsere Verbandregeln durch und beachte diese. https://www.leitstellenspiel.de/verband/regeln/19\n\nIn unserm Verbandsforum haben wir einen Anfängerleitfaden, der Dir den Start in dieses Spiel einfacher machen soll, sowie eine Zusammenstellung aller Wachen, deren Fahrzeuge und ihren Besonderheiten:\nhttps://www.leitstellenspiel.de/alliance_threads/5971\nhttps://www.leitstellenspiel.de/alliance_threads/53016\n\nWenn Du Fragen hast, kannst du sie gern im Chat stellen.\n\nAuf eine Gute Zusammenarbeit und viel Spaß!\nDie Verbandleitung des Verbandes Bundesweiter KatSchutz (Bund)"
+    "message": "Hallo %USER%,\n\nherzlich Willkommen im Verband Bundesweiter KatSchutz (BUND).\nBitte lies Dir unsere Verbandregeln durch und beachte diese.\nhttps://www.leitstellenspiel.de/verband/regeln/19\n\nIn unserm Verbandsforum haben wir einen Anfängerleitfaden, der Dir den Start in dieses Spiel einfacher machen soll, sowie eine Zusammenstellung aller Wachen, deren Fahrzeuge und ihren Besonderheiten:\nhttps://www.leitstellenspiel.de/alliance_threads/5971\nhttps://www.leitstellenspiel.de/alliance_threads/53016\n\nWenn Du Fragen hast, kannst du sie gern im Chat stellen.\n\nAuf eine Gute Zusammenarbeit und viel Spaß!\nDie Verbandleitung des Verbandes Bundesweiter KatSchutz (Bund)"
   },
   {
     "case": "Ermahnung PGSL/VGSL",
