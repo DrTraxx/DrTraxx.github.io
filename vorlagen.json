@@ -1,66 +1,79 @@
 [
   {
     "case": "Begrüßungsnachricht",
+    "chat": "",
     "subject": "Herzlich Willkommen im Verband Bundesweiter KatSchutz (BUND)",
     "message": "Hallo %USER%,\n\nherzlich Willkommen im Verband Bundesweiter KatSchutz (BUND).\nBitte lies Dir unsere Verbandsregeln durch und beachte diese.\nhttps://www.leitstellenspiel.de/verband/regeln/19\n\nIn unserm Verbandsforum haben wir einen Anfängerleitfaden, der Dir den Start in dieses Spiel einfacher machen soll, sowie eine Zusammenstellung aller Wachen, deren Fahrzeuge und ihren Besonderheiten:\nhttps://www.leitstellenspiel.de/alliance_threads/5971\nhttps://www.leitstellenspiel.de/alliance_threads/53016\n\nWenn Du Fragen hast, kannst Du sie gern im Chat stellen.\n\nAuf eine Gute Zusammenarbeit und viel Spaß!\nDie Verbandsleitung des Verbandes Bundesweiter KatSchutz (Bund)"
   },
   {
     "case": "Ablehnung Bewerbung",
+    "chat": "",
     "subject": "Deine Bewerbung beim Verband Bundesweiter KatSchutz (BUND)",
     "message": "Hallo %USER%,\n\nDu hast Dich beim Verband Bundesweiter KatSchutz (Bund) beworben. Deine Bewerbung müssen wir leider ablehnen.\nDies kann folgende Gründe haben:\n- Du hast noch keine 250.000 Credits erspielt\n- Du bist nicht registriert und hast deshalb nur eine Client-ID als Namen\n- Einer oder mehrere Deiner Wachennamen entsprechen nicht unserer Vorstellung\n- Dein Profiltext und/oder -bild entsprechen nicht unseren Vorstellungen\n- Dein Spielername entspricht nicht unseren Vorstellungen\n\nWenn Du Dich in einem der Punkte wiederfindest, dann ändere ihn und bewirb Dich erneut. Falls Deiner Meinung nach keiner der Punkte auf Dich zutrifft, schicke mir eine PN.\n\nDie Verbandsleitung des Verbandes Bundesweiter KatSchutz (Bund)"
   },
   {
     "case": "Ermahnung PGSL/VGSL",
+    "chat": "Ermahnung @%USER% wegen Missachtung der PGSL/VGSL-Regeln.",
     "subject": "Ermahnung - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
     "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Ermahnung erteilen.\nBitte lies Dir die Verbandsregeln dazu nochmals durch.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Verwarnung PGSL/VGSL",
+    "chat": "Verwarnung @%USER% wegen Missachtung der PGSL/VGSL-Regeln.",
     "subject": "Verwarnung - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
     "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich Dir eine Verwarnung erteilen.\nBitte lies Dir die Verbandsregeln dazu nochmals durch.\n Bei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ausschluss PGSL/VGSL",
+    "chat": "Verbandausschluss @%USER% wegen Missachtung der PGSL/VGSL-Regeln.",
     "subject": "Ausschluss - PGSL/VGSL %MISSION_NAME%; %MISSION_ADDRESS%",
     "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der VGSL/PGSL Regeln und des vorzeitigen Disponierens von ELW Fahrzeugen oder AB-Einsatzleitung bei o.g. VGSL/PGSL, muss ich dir den Verbandverweis erteilen.\nDu wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ermahnung Chatsperre",
+    "chat": "",
     "subject": "Ermahnung und Chatsperre - Fehlverhalten im Chat",
     "message": "Hallo %USER%,\n\nwegen Fehlverhaltens im Chat und dem daraus resultierenden Regelbruch, muss ich dir eine Chatsperre verpassen. Ebenso zählt diese Chatsperre als Ermahnung.\nBitte lies dir die Regeln dazu noch einmal durch.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Verwarnung Chatsperre",
+    "chat": "",
     "subject": "Verwarnung und Chatsperre - Fehlverhalten im Chat",
     "message": "Hallo %USER%,\n\nwegen Fehlverhaltens im Chat und dem daraus resultierenden Regelbruch, muss ich dir eine Chatsperre verpassen. Ebenso zählt diese Chatsperre als Verwarnung.\nBitte lies dir die Regeln dazu noch einmal durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ermahnung Regel 15.2",
+    "chat": "Ermahnung @%USER% wegen Verstoßes gegen Regel 15.2.",
     "subject": "Ermahnung - Verstoß gegen Regel 15.2; %MISSION_NAME%",
     "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Ermahnung erteilen.\nBitte lies dir die Verbandsregeln dazu nochmals durch.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Verwarnung Regel 15.2",
+    "chat": "Verwarnung @%USER% wegen Verstoßes gegen Regel 15.2.",
     "subject": "Ermahnung - Verstoß gegen Regel 15.2; %MISSION_NAME%",
     "message": "Hallo %USER%,\n\nwegen Nichteinhaltung der Regel *15.2 Einsatzmeldung/Bezeichnung für private Großschadenslagen (PGSL) des Verbandes muss ich dir eine Verwarnung erteilen.\nBitte lies dir die Verbandsregeln dazu nochmals durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ausschluss (sofort)",
+    "chat": "",
     "subject": "Verbandausschluss - grobes Fehlverhalten",
     "message": "Hallo %USER%,\n\nwegen groben Fehlverhaltens, das nicht mit unseren Verbandregeln vereinbar ist, muss ich dir den Verbandverweis erteilen.\nDu wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ausschluss (2. Verwarnung)",
+    "chat": "",
     "subject": "Verbandausschluss",
     "message": "Hallo %USER%,\n\nda du nach der Verwarnung noch einen weiteren Regelverstoß begangen hast, muss ich dir den Verbandverweis erteilen.\nDu wirst mit sofortiger Wirkung vom Verband ausgeschlossen und es erfolgt eine dauerhafte Sperrung.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Ermahnung Kleineinsätze",
+    "chat": "",
     "subject": "Ermahnung - permanente Freigabe von Kleineinsätzen",
     "message": "Hallo %USER%,\n\nweil du den Anweisungen der Administration nicht nachgekommen bist, Kleineinsätze nicht freizugeben, muss ich dir leider eine Ermahnung erteilen.\nBitte lies dir die Verbandregeln dazu noch einmal durch.\n\n%NAME%\n%ROLE%"
   },
   {
     "case": "Verwarnung Kleineinsätze",
+    "chat": "",
     "subject": "Verwarnung - permanente Freigabe von Kleineinsätzen",
     "message": "Hallo %USER%,\n\nweil du den Anweisungen der Administration nicht nachgekommen bist, Kleineinsätze nicht freizugeben, muss ich dir leider eine Verwarnung erteilen.\nBitte lies dir die Verbandregeln dazu noch einmal durch.\nBei dem nächsten Verstoß gegen das Regelwerk des Verbandes, erfolgt der sofortige Ausschluss verbunden mit einer dauerhaften Sperrung.\n\n%NAME%\n%ROLE%"
   }
