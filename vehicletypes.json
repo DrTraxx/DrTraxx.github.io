@@ -1514,7 +1514,7 @@
   },
   {
     "id": 59,
-    "name": "Einsatzleitwagen",
+    "name": "Einsatzleitwagen (SEG)",
     "short_name": "ELW 1 (SEG)",
     "class": [
       "seg_elw"
