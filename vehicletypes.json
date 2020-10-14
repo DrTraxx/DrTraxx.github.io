@@ -1484,7 +1484,7 @@
   },
   {
     "id": 58,
-    "name": "Krankentransportwagen",
+    "name": "Krankentransportwagen Typ B",
     "short_name": "KTW Typ B",
     "class": [
       "ambulances"
