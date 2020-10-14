@@ -845,7 +845,7 @@
       "police_cars"
     ],
     "class_alias": [
-      "FuStW"
+      "Polizeistreifen"
     ],
     "cost": 5000,
     "personal": {
@@ -2479,7 +2479,7 @@
       "police_cars"
     ],
     "class_alias": [
-      "FuStW"
+      "Polizeistreifen"
     ],
     "cost": 3000,
     "personal": {
