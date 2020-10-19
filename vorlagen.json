@@ -9,7 +9,7 @@
     "case": "Ablehnung Bewerbung",
     "chat": "",
     "subject": "Deine Bewerbung beim Verband Bundesweiter KatSchutz (BUND)",
-    "message": "Hallo %USER%,\n\nDu hast Dich beim Verband Bundesweiter KatSchutz (Bund) beworben. Deine Bewerbung müssen wir leider ablehnen.\nDies kann folgende Gründe haben:\n- Du hast noch keine 250.000 Credits erspielt\n- Du bist nicht registriert und hast deshalb nur eine Client-ID als Namen\n- Einer oder mehrere Deiner Wachennamen entsprechen nicht unserer Vorstellung\n- Dein Profiltext und/oder -bild entsprechen nicht unseren Vorstellungen\n- Dein Spielername entspricht nicht unseren Vorstellungen\n\nWenn Du Dich in einem der Punkte wiederfindest, dann ändere ihn und bewirb Dich erneut. Falls Deiner Meinung nach keiner der Punkte auf Dich zutrifft, schicke mir eine PN.\n\nDie Verbandsleitung des Verbandes Bundesweiter KatSchutz (Bund)"
+    "message": "Hallo %USER%,\n\nDu hast Dich beim Verband Bundesweiter KatSchutz (Bund) beworben. Deine Bewerbung müssen wir leider ablehnen.\nDies kann folgende Gründe haben:\n- Du hast noch keine 200.000 Credits erspielt\n- Du bist nicht registriert und hast deshalb nur eine Client-ID als Namen\n- Einer oder mehrere Deiner Wachennamen entsprechen nicht unserer Vorstellung\n- Dein Profiltext und/oder -bild entsprechen nicht unseren Vorstellungen\n- Dein Spielername entspricht nicht unseren Vorstellungen\n\nWenn Du Dich in einem der Punkte wiederfindest, dann ändere ihn und bewirb Dich erneut. Falls Deiner Meinung nach keiner der Punkte auf Dich zutrifft, schicke mir eine PN.\n\nDie Verbandsleitung des Verbandes Bundesweiter KatSchutz (Bund)"
   },
   {
     "case": "Ermahnung PGSL/VGSL",
