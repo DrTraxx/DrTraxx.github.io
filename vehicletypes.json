@@ -2521,6 +2521,7 @@
     },
     "prerequisites": {
       "trailer": true,
+      "water": 1000,
       "police_helicopter_stations": 1
     }
   }
