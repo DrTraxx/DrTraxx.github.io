@@ -2520,6 +2520,7 @@
       "qualification": "Brandbekämpfung"
     },
     "prerequisites": {
+      "trailer": true,
       "police_helicopter_stations": 1
     }
   }
