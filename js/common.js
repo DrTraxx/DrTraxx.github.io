@@ -1,16 +1,16 @@
-// @version      1.0.0
+// @version      1.0.1
 
-function singleBuilding(id) {
+async function singleBuilding(id) {
   var returnValue = {};
-  $.getJSON("/api/buildings/" + id, function(data) {
+  await $.getJSON("/api/buildings/" + id, function(data) {
     returnValue = data;
   });
   return returnValue;
 }
 
-function singleVehicle(id) {
+async function singleVehicle(id) {
   var returnValue = {};
-  $.getJSON("/api/vehicles/" + id, function(data) {
+  await $.getJSON("/api/vehicles/" + id, function(data) {
     returnValue = data;
   });
   return returnValue;
