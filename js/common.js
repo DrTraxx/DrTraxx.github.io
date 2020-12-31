@@ -1,3 +1,5 @@
+// @version      1.0.0
+
 function singleBuilding(id) {
   var returnValue = {};
   $.getJSON("/api/buildings/" + id, function(data) {
