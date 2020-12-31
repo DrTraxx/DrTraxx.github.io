@@ -1,6 +1,6 @@
 function singleBuilding(id) {
   var returnValue = {};
-  $.getJSON("/api/buildings" + id, function(data) {
+  $.getJSON("/api/buildings/" + id, function(data) {
     returnValue = data;
   });
   return returnValue;
@@ -8,7 +8,7 @@ function singleBuilding(id) {
 
 function singleVehicle(id) {
   var returnValue = {};
-  $.getJSON("/api/vehicles" + id, function(data) {
+  $.getJSON("/api/vehicles/" + id, function(data) {
     returnValue = data;
   });
   return returnValue;
