@@ -1,5 +1,3 @@
-// @version      1.0.1
-
 async function singleBuilding(id) {
   var returnValue = {};
   await $.getJSON("/api/buildings/" + id, function(data) {
