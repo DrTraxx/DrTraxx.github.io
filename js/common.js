@@ -13,3 +13,5 @@ async function singleVehicle(id) {
   });
   return returnValue;
 }
+
+console.log("Test");
