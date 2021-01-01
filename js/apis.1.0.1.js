@@ -78,3 +78,11 @@ async function singleVehicle(id) {
   });
   return returnValue;
 }
+
+async function singleAllianceBuilding(id) {
+  var returnValue = {};
+  await $.getJSON("/api/alliance_buildings/"+id, function(data) {
+    returnValue = data;
+  });
+  return returnValue;
+}
