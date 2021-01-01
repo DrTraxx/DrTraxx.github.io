@@ -22,23 +22,21 @@ overflow-y: auto;
 
 function createModal(modalId) {
   $("body")
-    .prepend(
-    `<div class="modal fade bd-example-modal-lg" id="${modalId}Modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-       <div class="modal-dialog modal-lg" role="document">
-         <div class="modal-content">
-           <div class="modal-header" id="${modalId}ModalHeader">
-             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-               <span aria-hidden="true">&#x274C;</span>
-             </button>
-             <h5 class="modal-title" id="${modalId}Title"><center></center></h5>
-             <div id="${modalId}DivHeader"></div>
-           </div>
-           <div class="modal-body" id="${modalId}ModalBody">
-           </div>
-           <div class="modal-footer" id=${modalId}ModalFooter>
-             <button type="button" class="btn btn-danger" data-dismiss="modal">Schließen</button>
-             <div class="pull-left">v ${GM_info.script.version}</div>
-           </div>
-        </div>
-     </div>`);
+    .prepend(`<div class="modal fade bd-example-modal-lg" id="${modalId}Modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-lg" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header" id="${modalId}ModalHeader">
+                      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&#x274C;</span>
+                      </button>
+                      <h5 class="modal-title" id="${modalId}Title"><center></center></h5>
+                      <div id="${modalId}DivHeader"></div>
+                    </div>
+                    <div class="modal-body" id="${modalId}ModalBody"></div>
+                    <div class="modal-footer" id=${modalId}ModalFooter>
+                      <button type="button" class="btn btn-danger" data-dismiss="modal">Schließen</button>
+                      <div class="pull-left">v ${GM_info.script.version}</div>
+                    </div>
+                </div>
+              </div>`);
 }
