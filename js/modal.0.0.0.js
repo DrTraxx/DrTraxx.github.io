@@ -35,7 +35,7 @@ function createModal(modalId) {
            </div>
            <div class="modal-body" id="${modalId}ModalBody">
            </div>
-           <div class="modal-footer" id={modalId}ModalFooter>
+           <div class="modal-footer" id=${modalId}ModalFooter>
              <button type="button" class="btn btn-danger" data-dismiss="modal">Schließen</button>
              <div class="pull-left">v ${GM_info.script.version}</div>
            </div>
