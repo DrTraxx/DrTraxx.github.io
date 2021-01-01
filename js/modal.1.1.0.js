@@ -30,8 +30,6 @@ function createModal(modalId) {
                         <span aria-hidden="true">&#x274C;</span>
                       </button>
                       <h3 class="modal-title" id="${modalId}Title"><center></center></h3>
-                      <br>
-                      <div id="${modalId}DivHeader"></div>
                     </div>
                     <div class="modal-body" id="${modalId}ModalBody"></div>
                     <div class="modal-footer" id=${modalId}ModalFooter>
