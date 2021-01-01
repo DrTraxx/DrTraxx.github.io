@@ -29,7 +29,7 @@ function createModal(modalId) {
                       <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&#x274C;</span>
                       </button>
-                      <h5 class="modal-title" id="${modalId}Title"><center></center></h5>
+                      <h3 class="modal-title" id="${modalId}Title"><center></center></h3>
                       <br>
                       <div id="${modalId}DivHeader"></div>
                     </div>
