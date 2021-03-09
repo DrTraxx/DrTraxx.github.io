@@ -1,7 +1,7 @@
 //api requests
 async function getApi(type) {
   var url = "";
-  switch(url) {
+  switch(type) {
     case "credits": url = "/api/credits";
       break;
     case "buildings": url = "/api/buildings";
