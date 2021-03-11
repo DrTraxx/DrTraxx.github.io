@@ -2550,6 +2550,7 @@
     "additional": {
       "critical_patients": true,
       "primary_transport": true,
+      "secondary_transport": true,
       "qualification": "Intensivpflege",
       "special_conditions": true
     },
