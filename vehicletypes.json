@@ -723,7 +723,7 @@
       "ambulances"
     ],
     "class_alias": [
-      "Rettungstransport"
+      "Patiententransport"
     ],
     "cost": 5000,
     "personal": {
@@ -996,7 +996,7 @@
       "ambulances"
     ],
     "class_alias": [
-      "Rettungstransport"
+      "Patiententransport"
     ],
     "cost": 5000,
     "personal": {
@@ -1495,7 +1495,7 @@
       "ambulances"
     ],
     "class_alias": [
-      "Rettungstransport"
+      "Patiententransport"
     ],
     "cost": 5000,
     "personal": {
@@ -1885,7 +1885,7 @@
       "ambulances"
     ],
     "class_alias": [
-      "Rettungstransport"
+      "Patiententransport"
     ],
     "cost": 25000,
     "personal": {
@@ -1926,7 +1926,7 @@
       "nef"
     ],
     "class_alias": [
-      "Rettungstransport",
+      "Patiententransport",
       "Notarzt"
     ],
     "cost": 25000,
@@ -2538,7 +2538,7 @@
       "nef"
     ],
     "class_alias": [
-      "Rettungstransport",
+      "Patiententransport",
       "Notarzt"
     ],
     "cost": 30000,
