@@ -2521,11 +2521,11 @@
       13
     ],
     "additional": {
-      "qualification": "Brandbekämpfung"
-    },
-    "prerequisites": {
+      "qualification": "Brandbekämpfung",
       "trailer": true,
       "water": 1000,
+    },
+    "prerequisites": {
       "police_helicopter_stations": 1
     }
   },
