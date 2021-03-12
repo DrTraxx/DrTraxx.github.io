@@ -992,8 +992,12 @@
     "id": 38,
     "name": "Krankentransportwagen",
     "short_name": "KTW",
-    "class": [],
-    "class_alias": [],
+    "class": [
+      "ambulances"
+    ],
+    "class_alias": [
+      "Rettungstransport"
+    ],
     "cost": 5000,
     "personal": {
       "min": 1,
