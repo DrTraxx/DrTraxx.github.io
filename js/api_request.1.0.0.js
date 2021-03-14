@@ -15,7 +15,7 @@ async function getApi(type) {
     case "allianceBuildings": url = "/api/alliance_buildings";
       break;
   }
-  var returnValue = await $.getJSON(url, data => data);
+  var returnValue = await $.getJSON(url);
   return returnValue;
 }
 
