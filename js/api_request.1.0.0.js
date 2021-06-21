@@ -22,7 +22,7 @@ async function getApi(type) {
 //vehicleTypes
 async function getVehicleTypes() {
   if(!localStorage.aVehicleTypesNew || JSON.parse(localStorage.aVehicleTypesNew).lastUpdate < (new Date().getTime() - 5 * 1000 * 60)) {
-    await $.getJSON("https://drtraxx.github.io/vehicletypes.json").done(data => localStorage.setItem('aVehicleTypesNew', JSON.stringify({lastUpdate: new Date().getTime(), value: data})) );
+    await $.getJSON("https://api.lss-cockpit.de/de_DE/vehicletypes.json").done(data => localStorage.setItem('aVehicleTypesNew', JSON.stringify({lastUpdate: new Date().getTime(), value: data})) );
   }
   return JSON.parse(localStorage.aVehicleTypesNew).value;
 }
